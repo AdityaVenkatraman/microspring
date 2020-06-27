@@ -2,7 +2,7 @@
 This is the repository for the Materials and Design paper titled "Texture-Sensitive Prediction of Micro-Spring Performance Using Gaussian Process Models Calibrated to Finite Element Simulations"
 * There are separate datasets for the textures and elastic constants
 * For the textures
-  * Training set textures (440) and test set textures (22) are present in **texture.hdf5**
+  * Training set textures (440) and test set textures (22) are present in **texture.hdf5**:https://gtvault-my.sharepoint.com/:u:/g/personal/avenkatraman31_gatech_edu/EWlPtTjD_aRBt7FQkp4amT0BpkrNfUH2--j6qwk4Ln9HCw?e=yNw0YU
   * Characterization of the textures with GSH functions can be done through the PyMKS github page: https://github.com/materialsinnovation/pymks/blob/master/pymks/bases/gsh_functions/gsh_cub_tri_L0_16.py
 * For the elastic constants
   * Training set elastic constants (440) and test set elastic constants (5) are present in **elastic-constants.mat**
